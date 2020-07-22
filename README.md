@@ -11,4 +11,4 @@
 - 💬 Ask me about ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=ooobsidian&show_icons=true)
+![obsidian's github stats](https://github-readme-stats.vercel.app/api?username=ooobsidian&show_icons=true)
