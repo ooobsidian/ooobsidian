@@ -12,3 +12,4 @@
 -->
 
 ![obsidian's github stats](https://github-readme-stats.vercel.app/api?username=ooobsidian&show_icons=true)
+[![obsidian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ooobsidian)](https://github.com/anuraghazra/github-readme-stats)
