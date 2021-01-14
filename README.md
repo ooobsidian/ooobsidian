@@ -11,6 +11,6 @@
 - 💬 Ask me about ...
 -->
 
-![obsidian's github stats](https://github-readme-stats.vercel.app/api?username=ooobsidian&show_icons=true)
+![obsidian's github stats](https://github-readme-stats.vercel.app/api?username=ooobsidian&show_icons=true&theme=flag-india)
 
-![obsidian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ooobsidian)
+![obsidian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=obsidian)
