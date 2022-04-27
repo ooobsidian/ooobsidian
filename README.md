@@ -1,6 +1,6 @@
 ### About me
 
-- 👨‍💻 ENFP
+- 👨‍💻 ISJF
 - 🐟 Enjoy messing around
 - 👨‍🎓 M.Phil in Computer Science
 - 📫 obsidian_lrx(at)aliyun(dot)com
